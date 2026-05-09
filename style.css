@@ -106,7 +106,22 @@ header {
 .header-socials a .fa-youtube:hover {
     color: #FF0000;
 }
-
+/* Specific hover color for Instagramicon */
+.header-socials a .fa-instagram:hover {
+    color: #ff008cc1;
+}
+/* Specific hover color for Facebook icon */
+.header-socials a .fa-facebook:hover {
+    color: #3302bc;
+}
+/* Specific hover color for LinkedIn icon */
+.header-socials a .fa-linkedin:hover {
+    color: #5235f9;
+}
+/* Specific hover color for GitHub icon */
+.header-socials a .fa-github:hover {
+    color: #14015c;
+}
 /* --- Skills Section --- */
 .skills-section {
     padding: 60px 10%;
